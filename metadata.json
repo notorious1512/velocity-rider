@@ -1,0 +1,11 @@
+{
+  "name": "Velocity Riders",
+  "description": "High-octane futuristic 3D motorbike racing game with AI-powered commentary and cyberpunk aesthetics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

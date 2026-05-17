@@ -1,0 +1,19 @@
+export const GAME_CONSTANTS = {
+  TRACK_WIDTH: 20,
+  SEGMENT_LENGTH: 50,
+  BIKE_START_Y: 2,
+  MAX_SPEED: 180,
+  ACCELERATION: 40,
+  DRAG: 0.98,
+  STEER_SPEED: 0.05,
+  NITRO_BOOST: 1.5,
+  TRAFFIC_COUNT: 10,
+};
+
+export const COLORS = {
+  NEON_CYAN: "#00f2ff",
+  NEON_MAGENTA: "#bc00ff",
+  NEON_PINK: "#ff0080",
+  CYBER_YELLOW: "#f0f000",
+  ROAD_GRAY: "#101015",
+};
